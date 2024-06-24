@@ -19,7 +19,7 @@ This script provides a smooth scrolling experience for a webpage. It enables smo
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/smooth-scroll.git
+    git clone https://github.com/66HEX/smooth-scroll.git
     ```
 
 2. **Include the script in your HTML file**:
